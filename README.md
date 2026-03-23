@@ -70,6 +70,21 @@ I'm a Computer Engineering student passionate about building real-world, impactf
 
 ---
 
+## 🧠 Data Structures & Algorithms
+
+* Solved **27+ problems on LeetCode**
+* Practicing **Arrays, Strings, and Basic Recursion**
+* Currently learning **Linked Lists and Trees**
+
+---
+
+## 🏆 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/yourusername)
+
+---
+
+
 ## 🤝 Connect With Me
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)
