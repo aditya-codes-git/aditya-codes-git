@@ -54,20 +54,21 @@ I'm a Computer Engineering student passionate about building real-world, impactf
 
 ## 🚀 Featured Projects
 
-### 🔹 Skillentia – AI Resume Analyzer
+### 🔹 [Skillentia – AI Resume Analyzer](https://github.com/aditya-codes-git/skillentia)
 
 * AI-powered resume analysis using Gemini API
 * Built with React + Supabase + OAuth
 
-### 🔹 Mini Redis – In-Memory Cache System
+### 🔹 [Mini Redis – In-Memory Cache System](https://github.com/aditya-codes-git/mini-redis)
 
 * Implemented LRU eviction + TTL expiration
 * Built using Java + Spring Boot
 
-### 🔹 Deepfake Detection System (Ongoing)
+### 🔹 [Deepfake Detection System]
 
 * AI + Full Stack project
 * Focused on cybersecurity applications
+
 
 ---
 
