@@ -64,7 +64,7 @@ I'm a Computer Engineering student passionate about building real-world, impactf
 * Implemented LRU eviction + TTL expiration
 * Built using Java + Spring Boot
 
-### 🔹 [Deepfake Detection System]
+### 🔹 Deepfake Detection Systems
 
 * AI + Full Stack project
 * Focused on cybersecurity applications
