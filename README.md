@@ -14,8 +14,40 @@ I'm a Computer Engineering student passionate about building real-world, impactf
 
 ## 🚀 Tech Stack
 
+### 💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,react,html,css,spring,postgres,supabase,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=java,js" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
+</p>
+
+### 🔄 Version Control
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
 ---
