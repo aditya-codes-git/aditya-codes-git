@@ -2,7 +2,7 @@
 
 🚀 Full Stack Developer (React + Spring Boot)
 🤖 Exploring AI & Deepfake Detection
-📍 Mumbai, India
+📍 Pune, India
 
 ---
 
