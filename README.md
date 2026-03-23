@@ -66,7 +66,7 @@ I'm a Computer Engineering student passionate about building real-world, impactf
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-codes-git&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?aditya-codes-git&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-codes-git&layout=compact&theme=tokyonight)
 
 ---
 
@@ -87,8 +87,8 @@ I'm a Computer Engineering student passionate about building real-world, impactf
 
 ## 🤝 Connect With Me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aditya-pharande-24720822a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/aditya-codes-git)
 
 ---
 
