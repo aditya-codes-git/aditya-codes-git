@@ -64,9 +64,9 @@ I'm a Computer Engineering student passionate about building real-world, impactf
 
 ## 📊 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-codes-git&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?aditya-codes-git&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -80,7 +80,7 @@ I'm a Computer Engineering student passionate about building real-world, impactf
 
 ## 🏆 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/yourusername)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/AdityaPharande/)
 
 ---
 
